@@ -1,1 +1,6 @@
 std::string isim = 'mehmet';
+std::string isim = 'mehmet';
+std::string isim = 'mehmet';
+std::string isim = 'mehmet';
+std::string isim = 'mehmet';
+std::string isim = 'mehmet';
